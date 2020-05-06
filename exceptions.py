@@ -1,0 +1,2 @@
+class WordPlacementConflict(Exception):
+    pass
